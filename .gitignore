@@ -395,4 +395,8 @@ FodyWeavers.xsd
 *.msp
 
 # JetBrains Rider
+<<<<<<< HEAD
 *.sln.iml
+=======
+*.sln.iml
+>>>>>>> a7669ecef1062d40cbd2d0eaa0288ce636653a38
