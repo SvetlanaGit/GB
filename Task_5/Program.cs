@@ -10,5 +10,5 @@ if ((a<1000) && (a>99))
 }
 else
 {
-    System.Console.WriteLine("Щшибка!");
+    System.Console.WriteLine("Ошибка!");
 }
